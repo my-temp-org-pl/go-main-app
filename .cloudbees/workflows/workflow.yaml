@@ -15,4 +15,4 @@ jobs:
         run: |
           echo "hello workflow!" 
       - id : action
-        uses : my-temp-org-pl/go-action-app   
+        uses : my-temp-org-pl/g-action-app   
