@@ -15,4 +15,6 @@ jobs:
         run: |
           echo "hello workflow updted!" 
       - id : action
-        uses : my-temp-org-pl/g-action-app   
+        uses : my-temp-org-pl/g-action-app  
+      - id : action2
+        uses : scm/cortest/scm-action-app   
