@@ -17,4 +17,4 @@ jobs:
       - id : action
         uses : my-temp-org-pl/g-action-app  
       - id : action2
-        uses : scm/cortest/scm-action-app   
+        uses : https://bitbucket.saas-preprod.beescloud.com/projects/cortest/repos/scm-action-app  
