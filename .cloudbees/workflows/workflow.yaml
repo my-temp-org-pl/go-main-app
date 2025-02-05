@@ -16,5 +16,4 @@ jobs:
           echo "hello workflow updted!" 
       - id : action
         uses : my-temp-org-pl/g-action-app  
-      - id : action2
-        uses : https://bitbucket.saas-preprod.beescloud.com/projects/cortest/repos/scm-action-app.git  
+     
