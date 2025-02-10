@@ -13,7 +13,7 @@ jobs:
         name: Say hello
         shell: sh
         run: |
-          echo "hello workflow updted!" 
+          echo "hello workflow updted new!" 
       - id : action
         uses : my-temp-org-pl/g-action-app  
      
