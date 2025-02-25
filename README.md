@@ -1,3 +1,3 @@
 # go-main-app
 dummy commit latest
-second
+second dummy commit 
