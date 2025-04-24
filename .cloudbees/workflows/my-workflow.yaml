@@ -14,5 +14,4 @@ jobs:
         shell: sh
         run: |
           echo "hello world"
-      - name: checkout-source-code
-        uses: cloudbees-io/checkout@v1    
+
